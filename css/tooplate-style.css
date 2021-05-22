@@ -65,6 +65,12 @@ p:last-child {
   padding: 45px;
 }
 
+.logos{
+  height: 100px;
+}
+.logos1{
+  height:80px;
+}
 .tm-nav-section {
   position: absolute;
   top: 158px;
@@ -139,7 +145,7 @@ p:last-child {
 .tm-banner-text-container {
   position: relative;
   z-index: 1000;
-  color: white;
+  color:black;
   text-align: center;
   max-width: 520px;
 }
@@ -154,6 +160,7 @@ p:last-child {
   font-size: 1.5rem;
   font-weight: 300;
   max-width: 500px;
+  font-family:cursive;
 }
 
 .tm-features-section {
