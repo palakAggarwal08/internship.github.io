@@ -36,6 +36,7 @@ button {
 
 h2 {
   font-size: 2.4rem;
+  font-weight: bold;
 }
 
 h3 {
@@ -159,7 +160,7 @@ p:last-child {
 
 .tm-banner-subtitle {
   font-size: 1.5rem;
-  font-weight: 300;
+  font-weight: bold;
   max-width: 500px;
   font-family:'Chela One', cursive;
 }
