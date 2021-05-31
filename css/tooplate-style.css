@@ -145,7 +145,7 @@ p:last-child {
   left: 50%;
   top: 60%;
   transform: translate(-50%, -60%);
-  filter: opacity(70%);
+  filter: opacity(65%);
   min-width: 100%;
   min-height: 100%;
 }
