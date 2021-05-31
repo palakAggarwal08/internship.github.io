@@ -58,6 +58,24 @@ p:last-child {
   margin-bottom: 0;
 }
 
+/* .backim{
+  /* height: 100%;
+  width:100%;
+
+  /* Center and scale the image nicely */
+  /* background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative; 
+
+  height: 20%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-top: -1800px;
+} */
 .tm-page-header {
   color: #444444;
   display: -webkit-box;
@@ -145,7 +163,7 @@ p:last-child {
   left: 50%;
   top: 60%;
   transform: translate(-50%, -60%);
-  filter: opacity(50%);
+  /*filter: opacity(50%);*/
   min-width: 100%;
   min-height: 100%;
 }
@@ -153,24 +171,25 @@ p:last-child {
 .tm-banner-text-container {
   position: relative;
   z-index: 1000;
-  color:#0b0c0c;
+  color:white;
   text-align: center;
   max-width: 520px;
 }
 
 .tm-banner-title {
-  color:#101111;
+  color:white;
   font-size: 3rem;
-  font-weight: 300;
+  font-weight: bolder;
   margin-bottom: 40px;
-  font-family: 'Chela One', cursive;
+  font-style: ubuntu;
 }
 
 .tm-banner-subtitle {
-  font-size: 1.8rem;
-  font-weight: bold;
+  font-size: 1.5rem;
+  font-weight: bolder;
   max-width: 500px;
-  font-family:'Chela One', cursive;
+  font-style: ubuntu;
+ /* font-family:'Chela One', cursive;*/
 }
 
 .tm-features-section {
