@@ -76,6 +76,22 @@ p:last-child {
   position: relative;
   margin-top: -1800px;
 } */
+
+
+.videoeditor{
+  min-height:245px;
+  max-width:500px;
+}
+@media  (min-width: 768px)
+  {.videoeditor
+   {
+      max-width: 720px;
+  }}
+
+  @media (min-width: 576px)
+{.videoeditor {
+    max-width: 540px;
+}}
 .tm-page-header {
   color: #444444;
   display: -webkit-box;
@@ -145,6 +161,16 @@ p:last-child {
   width: 100%;
   max-width: 930px;
 }
+/* .rows {
+  display: flex; /* equal height of the children *
+}
+
+.col {
+  flex: 1; /* additionally, equal width 
+  
+  padding: 1em;
+  border: solid;
+} */
 
 .tm-banner-section {
   display: -webkit-box;
