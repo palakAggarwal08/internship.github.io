@@ -78,6 +78,7 @@ p:last-child {
 } */
 
 
+
 .videoeditor{
   min-height:245px;
   max-width:500px;
@@ -506,6 +507,8 @@ figure {
 @media (min-width: 992px) {
   .tm-activity-block {
     max-width: 582px;
+   /* min-height: 500px;*/
+    
   }
 
   .tm-company-about {
