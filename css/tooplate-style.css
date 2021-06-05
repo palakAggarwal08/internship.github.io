@@ -76,7 +76,14 @@ p:last-child {
   position: relative;
   margin-top: -1800px;
 } */
-
+.contact-bottom{
+  margin-right: 200px;
+  color: grey;
+  font-size: 100px;
+}
+/* .contact-bottom1{
+  margin-right: 150px;
+} */
 
 
 .videoeditor{
@@ -130,10 +137,10 @@ p:last-child {
   border-top: none;
   background: white;
 }
-
+/* 
 .navbar-expand-md .navbar-nav .nav-link {
   padding: 10px 35px;
-}
+} */
 
 .navbar-light .navbar-nav .nav-link {
   color: #313131;
@@ -442,6 +449,13 @@ figure {
 
 .tm-contact-header {
   margin-bottom: 40px;
+  margin-top: 90px;
+  margin-left: 70px;
+  margin-right: 20px;
+}
+.img-last{
+  margin-right: 40px;
+  margin-top:30px;
 }
 
 .form-control {
