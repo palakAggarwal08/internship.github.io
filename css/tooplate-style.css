@@ -81,9 +81,10 @@ p:last-child {
   color: grey;
   font-size: 100px;
 }
-/* .contact-bottom1{
-  margin-right: 150px;
-} */
+.contact-bottom1{
+  /* margin-right: 150px; */
+  text-align: center;
+} 
 
 
 .videoeditor{
